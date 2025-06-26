@@ -121,10 +121,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zenithria414&show_icons=true&locale=en&layout=compact&theme=radical" alt="zenithria414" height="180"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zenithria414&theme=radical" alt="zenithria414" height="180"/>
-</p>
-
 ---
 
 <details>
