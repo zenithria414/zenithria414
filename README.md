@@ -1,166 +1,122 @@
-# Hi 👋, I'm Arya (zenithria414)
-
+<!-- Social Links -->
 <p align="center">
-  <img alt="typing intro" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Arya;Web+Developer+%7C+ECE;LeetCode+%26+CP+Enthusiast;Exploring+VLSI+%26+ML" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/zenithria414">
-    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=zenithria414&label=Profile%20Views&color=38bdf8&style=flat" />
+  <a href="https://www.leetcode.com/zenithria_414" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <img alt="banner" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=90&section=header&text=Building%20Useful%20Things%20with%20Code%20%F0%9F%9A%80&fontSize=26" />
+  <a href="https://auth.geeksforgeeks.org/user/zenithria_414" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/zenithria414" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/zenithria414" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/arya414" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://kaggle.com/zenithria414" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/zenithria_414" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/zenithria123" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently building MERN projects
-- 🌱 Learning Machine Learning & VLSI
-- 👯 Open to collaborating on full-stack projects
-- 🤝 Happy to help with competitive programming
+- 🔭 Currently working on **MERN projects**
+- 🌱 Currently learning **Machine Learning & VLSI**
+- 👯 Looking to collaborate on **Full Stack projects**
+- 🤝 Looking for help with **Competitive Programming**
 - 👨‍💻 Portfolio: [zenithria414.github.io/Portfolio_AryaS](https://zenithria414.github.io/Portfolio_AryaS/)
-- 📫 Email: zenithria123@gmail.com
-- 🔗 LinkedIn: [arya414](https://www.linkedin.com/in/arya414/)
+- 💬 Ask me about **Competitive Programming**
+- 📫 Reach me at **zenithria123@gmail.com**
+- 📄 Experiences on [LinkedIn](https://www.linkedin.com/in/arya414/)
 
-> ⚡ Fun fact: I behave like a CS undergrad but I'm actually majoring in ECE.
-
----
-
-## ✅ Quick Links
-
-- Portfolio: https://zenithria414.github.io/Portfolio_AryaS/
-- LeetCode: https://www.leetcode.com/zenithria_414
-- Kaggle: https://kaggle.com/zenithria414
-- CodeChef: https://www.codechef.com/users/zenithria414
-- Codeforces: https://codeforces.com/profile/zenithria414
+> ⚡ **Fun Fact:**  
+> *I behave like a CS undergrad but I'm actually majoring in ECE.*
 
 ---
 
-## 🔗 Connect
+## 🛠️ My Tech Stack
+
+<table>
+  <tr>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="250" />
+    </td>
+
+    <td width="60%">
+
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="30"/> Web Stacks
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+</p>
+
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/> Programming Languages
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+</p>
+
+### 🧰 Other Tools & Platforms
+
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+</p>
+
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://www.leetcode.com/zenithria_414"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/zenithria_414"><img alt="GFG" src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-  <a href="https://www.codechef.com/users/zenithria414"><img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-  <a href="https://codeforces.com/profile/zenithria414"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/arya414"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://kaggle.com/zenithria414"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-  <a href="https://instagram.com/zenithria_414"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/zenithria123"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+  <img
+    src="https://arya-github-stats.vercel.app/api?username=zenithria414&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
+    height="180"
+    alt="Arya S GitHub Stats"
+  />
+  <img
+    src="https://arya-github-stats.vercel.app/api/top-langs/?username=zenithria414&layout=compact&theme=radical"
+    height="180"
+    alt="Top Languages"
+  />
 </p>
 
 ---
 
-## 🧭 Table of Contents
+<details>
+  <summary>📝 <b>More About Me</b></summary>
 
-- About
-- Highlights
-- Tech Stack
-- Selected Projects
-- Open Source & Contribution
-- How I Learn
-- How to Reach Me
-- README customization & notes
+- 🎵 Enjoy music and tech exploration  
+- 🏆 Regular coding contest participant  
+- 🧠 Curious learner & builder  
+- 🖥️ Open-source enthusiast  
 
----
-
-## ✨ Highlights
-
-- Strong focus on MERN stack (React, Node, Express, MongoDB)
-- Competitive programming regular — comfortable in C++, Java, Python
-- Exploring ML & VLSI — combining hardware knowledge with software
-- Built and deployed personal portfolio and several full-stack projects
-
----
-
-## 🛠️ Tech Stack
-
-Core
-- JavaScript / TypeScript, Python, C, C++
-- React, Redux, Node.js, Express
-- MongoDB, MySQL
-
-Tools & Platforms
-- Git, Linux, Docker (when applicable), Pandas, Jupyter
-
-(Use icons or devicon images in your repository README if you prefer graphical tech stack; keep images optimized for size.)
-
----
-
-## 📂 Selected Projects
-
-> Note: Link these to the actual repositories and add 1–2 lines describing the problem, tech used, and deployment/demo link.
-
-- Portfolio — Personal website (React + GitHub Pages): https://zenithria414.github.io/Portfolio_AryaS/  
-  Short: Responsive portfolio showcasing projects and skills.
-- MERN App (Example) — Description: A full-stack app with auth, CRUD, and REST APIs.  
-  Tech: React, Node, Express, MongoDB.
-- CP Solutions Repo — curated competitive programming solutions in C++/Python.  
-  Tech: C++, Python, problem tags and complexity notes.
-
-(If you want, I can generate templated project sections for each repo with badges, screenshots and usage steps.)
-
----
-
-## 🧪 GitHub Stats
-
-<p align="center">
-  <img alt="GitHub Stats" src="https://arya-github-stats.vercel.app/api?username=zenithria414&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="160" />
-  <img alt="Top Languages" src="https://arya-github-stats.vercel.app/api/top-langs/?username=zenithria414&layout=compact&theme=radical" height="160" />
-</p>
-
----
-
-## 🤝 Open Source & Contributions
-
-- I enjoy contributing to documentation, small features, and bug fixes.
-- If you maintain a project and want help with frontend features or CP-related tooling, reach out via LinkedIn or open an issue in the repo.
-
----
-
-## 📚 How I Learn / Study Plan
-
-- Weekly: 1–2 LeetCode problems + 1 project improvement
-- Monthly: Participate in 1 coding contest (Codeforces / CodeChef)
-- Ongoing: ML coursework projects and VLSI reading labs
-
----
-
-## 📬 Contact
-
-- Email: zenithria123@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/arya414/  
-Feel free to reach out about collaborations, mentorship, or CP practice.
-
----
-
-## 📝 README Customization Tips
-
-- Replace large animated GIFs with smaller static images or optimized GIFs to reduce load time.
-- Use shields for external links (badges) — they're lightweight and consistent.
-- Add repository-level topics (Settings → Topics) to improve discoverability.
-- Add a LICENSE file if you want to make your code reusable (MIT is common for personal repos).
-- For each project, add:
-  - A short description
-  - Tech stack badges
-  - Demo / Screenshots
-  - Quick start (how to run locally)
-
----
-
-## 🔐 License
-
-This README content is available for you to use and customize. Add a LICENSE file to your repository to specify project code licensing.
-
----
-
-Thanks for sharing your README — I've cleaned up structure, improved accessibility (added alt text), consolidated badges, and added sections that make it easier for visitors and collaborators to understand your work quickly. If you want, I can:
-- Replace placeholder project entries with actual repo links + autogenerated project cards.
-- Optimize images (sizes and formats) and produce smaller SVG/shield alternatives.
-- Generate README templates for each project with install/run/demo instructions.
-
-Which one should I do next?
+</details>
