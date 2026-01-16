@@ -11,11 +11,9 @@
 
 <!-- Trophy Section -->
 <p align="center">
-  <img
-    src="https://images.weserv.nl/?url=github-profile-trophy.vercel.app/?username=zenithria414%26theme=radical%26row=1%26column=7&output=png"
-    alt="GitHub Trophies"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Building%20Cool%20Things%20with%20Code&fontSize=28" />
 </p>
+
 
 ---
 
