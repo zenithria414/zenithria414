@@ -1,142 +1,90 @@
-<!-- Banner section -->
+<!-- HERO / INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=1F75FE&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Arya;Web+Developer;LeetCode+Enthusiast;VLSI+Amateur" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Arya;Web+Developer+%7C+ECE;LeetCode+%26+CP+Enthusiast;Exploring+VLSI+%26+ML" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zenithria414&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=zenithria414&label=Profile%20Views&color=38bdf8&style=flat" />
 </p>
 
 ---
 
-<!-- Trophy Section -->
+<!-- GRADIENT BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Building%20Cool%20Things%20with%20Code&fontSize=28" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=90&section=header&text=Building%20Useful%20Things%20with%20Code%20%F0%9F%9A%80&fontSize=26" />
 </p>
-
 
 ---
 
-<!-- Social Links -->
+<!-- QUICK HIGHLIGHTS -->
+## ✨ Highlights
+
 <p align="center">
-  <a href="https://www.leetcode.com/zenithria_414" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/zenithria_414" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-  <a href="https://www.codechef.com/users/zenithria414" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-  <a href="https://codeforces.com/profile/zenithria414" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/arya414" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://kaggle.com/zenithria414" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/zenithria_414" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/zenithria123" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/MERN-Developer-22c55e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Competitive-Programming-f97316?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ECE-VLSI%20%26%20Embedded-6366f1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problem%20Solver-LeetCode-ef4444?style=for-the-badge" />
+</p>
+
+---
+
+<!-- SOCIAL LINKS -->
+<p align="center">
+  <a href="https://www.leetcode.com/zenithria_414"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/zenithria_414"><img src="https://img.shields.io/badge/GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+  <a href="https://www.codechef.com/users/zenithria414"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/zenithria414"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/arya414"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://kaggle.com/zenithria414"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle"/></a>
+  <a href="https://instagram.com/zenithria_414"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/></a>
+  <a href="https://www.hackerrank.com/zenithria123"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/></a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **MERN projects**
-- 🌱 Currently learning **Machine Learning & VLSI**
-- 👯 Looking to collaborate on **Full Stack projects**
-- 🤝 Looking for help with **Competitive Programming**
-- 👨‍💻 Portfolio: [zenithria414.github.io/Portfolio_AryaS](https://zenithria414.github.io/Portfolio_AryaS/)
-- 💬 Ask me about **Competitive Programming**
-- 📫 Reach me at **zenithria123@gmail.com**
-- 📄 Experiences on [LinkedIn](https://www.linkedin.com/in/arya414/)
+- 🔭 Working on **MERN-based full-stack projects**
+- 🌱 Learning **Machine Learning & VLSI**
+- 🧠 Strong interest in **DSA & Competitive Programming**
+- 👯 Open to **collaboration on real-world projects**
+- 👨‍💻 Portfolio: [Portfolio_AryaS](https://zenithria414.github.io/Portfolio_AryaS/)
+- 📫 Mail: **zenithria123@gmail.com**
 
 > ⚡ **Fun Fact:**  
-> *I behave like a CS undergrad but I'm actually majoring in ECE.*
+> *I code like a CS student, but I’m actually an ECE major.*
 
 ---
 
-## 🛠️ My Tech Stack
+## 🛠 Tech Stack
 
-<table>
-<tr>
-<td width="40%" align="center">
-
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="250" />
-
-</td>
-<td width="60%">
-
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="30"/> Web Stacks
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,mongodb,mysql,bootstrap,tailwind,html,css,js,python,c,cpp,java,linux,git&perline=8" />
 </p>
-
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/> Programming Languages
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-</p>
-
-### 🧰 Other Tools & Platforms
-
-<p>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-</p>
-
-</td>
-</tr>
-</table>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://arya-github-stats.vercel.app/api?username=zenithria414&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
-    height="180"
-    alt="Arya S GitHub Stats"
-  />
-  <img
-    src="https://arya-github-stats.vercel.app/api/top-langs/?username=zenithria414&layout=compact&theme=radical"
-    height="180"
-    alt="Top Languages"
-  />
+  <img src="https://arya-github-stats.vercel.app/api?username=zenithria414&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://arya-github-stats.vercel.app/api/top-langs/?username=zenithria414&layout=compact&theme=radical" height="180"/>
 </p>
 
 ---
 
 <details>
-<summary>📝 <b>More About Me</b></summary>
+<summary>🧩 <b>More About Me</b></summary>
 
-- 🎵 Enjoy music and tech exploration  
+- 🎵 Enjoy music while coding  
 - 🏆 Regular coding contest participant  
-- 🧠 Curious learner & builder  
-- 🖥️ Open-source enthusiast  
+- 🧠 Curious about low-level + high-level systems  
+- 🌍 Love building things that actually help people  
 
 </details>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
