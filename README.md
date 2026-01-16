@@ -12,9 +12,11 @@
 <!-- Trophy Section -->
 <p align="center">
   <img
-    src="https://github-profile-trophy-git-main-rstaa-rickstaa.vercel.app/?username=zenithria414&theme=gruvbox&row=1&column=6&margin-w=10"
+    src="https://github-profile-trophy.vercel.app/?username=zenithria414&theme=radical&row=1&column=7"
+    alt="GitHub Trophies"
   />
 </p>
+
 
 
 ---
