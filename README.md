@@ -118,19 +118,18 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zenithria414&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
+    src="https://arya-github-stats.vercel.app/api?username=zenithria414&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
     height="180"
+    alt="Arya S GitHub Stats"
   />
   <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zenithria414&layout=compact&theme=radical"
+    src="https://arya-github-stats.vercel.app/api/top-langs/?username=zenithria414&layout=compact&theme=radical"
     height="180"
+    alt="Top Languages"
   />
 </p>
-
 
 ---
 
