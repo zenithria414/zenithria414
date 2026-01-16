@@ -11,8 +11,11 @@
 
 <!-- Trophy Section -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zenithria414&theme=gruvbox&margin-w=8&row=1&column=6" alt="GitHub Trophies" />
+  <img
+    src="https://github-profile-trophy-git-main-rstaa-rickstaa.vercel.app/?username=zenithria414&theme=gruvbox&row=1&column=6&margin-w=10"
+  />
 </p>
+
 
 ---
 
@@ -115,10 +118,19 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zenithria414&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zenithria414&layout=compact&theme=radical" height="180"/>
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zenithria414&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zenithria414&layout=compact&theme=radical"
+    height="180"
+  />
 </p>
+
 
 ---
 
