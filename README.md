@@ -1,3 +1,30 @@
+<!-- Banner section -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=1F75FE&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Arya;Web+Developer;LeetCode+Enthusiast;VLSI+Amateur"
+    alt="Typing SVG"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=zenithria414&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Profile Views"
+  />
+</p>
+
+---
+
+<!-- Trophy Section -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&pause=1000&color=F472B6&center=true&vCenter=true&width=700&lines=Building+Cool+Things+with+Code+%F0%9F%9A%80"
+  />
+</p>
+
+
+---
+
 <!-- Social Links -->
 <p align="center">
   <a href="https://www.leetcode.com/zenithria_414" target="_blank">
@@ -52,7 +79,7 @@
       <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="250" />
     </td>
 
-    <td width="60%">
+  <td width="60%">
 
 ### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="30"/> Web Stacks
 
@@ -88,7 +115,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
 </p>
 
-    </td>
+  </td>
   </tr>
 </table>
 
